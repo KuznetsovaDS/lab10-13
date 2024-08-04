@@ -12,22 +12,22 @@ int main() {
     Time addSec = t1 + 90; 
     Time addSeconds = 85 + t1; 
 
-    cout << "Âðåìÿ 1 ";
+    cout << "Ð’Ñ€ÐµÐ¼Ñ 1 ";
     t1.display();
 
-    cout << "Âðåìÿ 2 ";
+    cout << "Ð’Ñ€ÐµÐ¼Ñ 2 ";
     t2.display();
 
-    cout << "Ñóììà ";
+    cout << "ÑÑƒÐ¼Ð¼Ð° ";
     sum.display();
 
-    cout << "Ðàçíîñòü ";
+    cout << "Ñ€Ð°Ð·Ð½Ð¾ÑÑ‚ÑŒ ";
     diff.display();
 
-    cout << "Äîáàâëåíî 90 ñåêóíä ";
+    cout << "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¾ 90 ÑÐµÐºÑƒÐ½Ð´ ";
     addSec.display();
 
-    cout << "Äîáàâëåíî 85 ñåêóíä äðóæåñòâåííàÿ ôóíêöèÿ ";
+    cout << "Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¾ 85 ÑÐµÐºÑƒÐ½Ð´ Ð´Ñ€ÑƒÐ¶ÐµÑÑ‚Ð²ÐµÐ½Ð½Ð°Ñ Ñ„ÑƒÐ½ÐºÑ†Ð¸Ñ ";
     addSeconds.display();
 
     return 0;
